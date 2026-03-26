@@ -1,0 +1,38 @@
+body {
+margin: 0;
+font-family: Arial, sans-serif;
+background-color: #f7f3ef;
+color: #4b3a2f;
+}
+
+.contenedor {
+max-width: 480px;
+margin: auto;
+padding: 30px 20px;
+text-align: center;
+}
+
+h1 {
+margin-bottom: 10px;
+}
+
+.subtitulo {
+margin-bottom: 30px;
+font-size: 18px;
+}
+
+.menu {
+display: flex;
+flex-direction: column;
+gap: 14px;
+}
+
+.boton {
+display: block;
+background-color: #c8a27c;
+color: white;
+text-decoration: none;
+padding: 16px;
+border-radius: 12px;
+font-size: 18px;
+}
